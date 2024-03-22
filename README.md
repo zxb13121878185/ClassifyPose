@@ -1,0 +1,3 @@
+# ClassifyPose
+
+基于谷歌开源库mediapipe的人体动作识别与分类
